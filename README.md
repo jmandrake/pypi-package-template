@@ -1,4 +1,4 @@
-
+[![CI](https://github.com/jmandrake/pypi-package-template/actions/workflows/cicd.yml/badge.svg?branch=main)](https://github.com/jmandrake/pypi-package-template/actions/workflows/cicd.yml)
 
 ## Video How-To / Intro to packages
 https://www.youtube.com/watch?v=JkeNVaiUq_c
