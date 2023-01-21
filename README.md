@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=JkeNVaiUq_c
 ## Templates for Pypi packages
 1) Create an account at https://pypi.org/
 2) Clone this repo
-3) Python package: How to create a new Python Package / Module
+3) Create a new Python Package/Module:
 
 pip install twine
 
